@@ -16,7 +16,7 @@ Eclipse Community has since evolved into much more, a community developing softw
 If you have any friends that may be interested in our board or software, we would really appreciate it if you showed it to them.</p>
 
 <h2>Most active Eclipse Community projects</h2>
-<p>This is a shortened version for more info visit our main website at <a href="http://www.eclipse.cx/projects">eclipse.cx/projects</a></p>
+<p>This is a shortened version, for more info visit our main website at <a href="http://www.eclipse.cx/projects">eclipse.cx/projects</a></p>
 
 <p><a href="https://eclipse.cx/projects/r3dfox">r3dfox</a> - A modern Firefox based web browser for Windows Vista and above!</p>
 
