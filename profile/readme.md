@@ -20,6 +20,6 @@ If you have any friends that may be interested in our board or software, we woul
 
 <p><a href="https://eclipse.cx/projects/r3dfox">r3dfox</a> - A modern Firefox based web browser for Windows Vista and above!</p>
 
-<p><a href="https://eclipse.cx/projects/eMail">eMail</a> - Customized fork of Interlink (UXP Thunderbird) with Windows XP and IA-32 i686 processors support and more optimizations!</p>
+<p><a href="https://eclipse.cx/projects/email">eMail</a> - Customized fork of Interlink (UXP Thunderbird) with Windows XP and IA-32 i686 processors support and more optimizations!</p>
 
-<p><a href="https://eclipse.cx/projects/StickShift">StickShift</a> - A fork of HandBrake with Windows 7 compatibility brought back!</p>
+<p><a href="https://eclipse.cx/projects/stickshift">StickShift</a> - A fork of HandBrake with Windows 7 compatibility brought back!</p>
